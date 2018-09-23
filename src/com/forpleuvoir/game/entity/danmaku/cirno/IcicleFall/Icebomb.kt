@@ -1,7 +1,7 @@
 package com.forpleuvoir.game.entity.danmaku.cirno.IcicleFall
 
 import com.forpleuvoir.game.entity.Cirno
-import com.forpleuvoir.game.gamenIterface.Fly
+import com.forpleuvoir.game.gameInterface.Fly
 import com.forpleuvoir.game.model.Direction
 import com.forpleuvoir.game.model.Node
 

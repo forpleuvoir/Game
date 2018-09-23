@@ -2,10 +2,9 @@ package com.forpleuvoir.game.entity;
 
 import com.forpleuvoir.game.entity.danmaku.cirno.IcicleFall.Icebomb;
 import com.forpleuvoir.game.entity.danmaku.cirno.IcicleFall.IcicleFall;
-import com.forpleuvoir.game.gamenIterface.Fly;
+import com.forpleuvoir.game.gameInterface.Fly;
 import com.forpleuvoir.game.model.Direction;
 import com.forpleuvoir.game.model.Node;
-import com.sun.org.apache.regexp.internal.RE;
 
 import java.util.ArrayList;
 

@@ -1,12 +1,9 @@
 package com.forpleuvoir.game.entity.danmaku;
 
-import com.forpleuvoir.game.entity.Enemy;
-import com.forpleuvoir.game.gamenIterface.Fly;
+import com.forpleuvoir.game.gameInterface.Fly;
 import com.forpleuvoir.game.model.Direction;
 import com.forpleuvoir.game.model.Map;
 import com.forpleuvoir.game.model.Node;
-
-import java.util.Random;
 
 public class SpellCard extends Node implements Fly {
     private int position;

@@ -1,8 +1,6 @@
-package com.forpleuvoir.game.gamenIterface;
+package com.forpleuvoir.game.gameInterface;
 
-import com.forpleuvoir.game.entity.Cirno;
 import com.forpleuvoir.game.model.Direction;
-import org.jetbrains.annotations.Nullable;
 
 public interface Fly {
     void move(Direction direction, boolean isMove);

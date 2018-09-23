@@ -3,7 +3,7 @@ package com.forpleuvoir.game.entity;
 import com.forpleuvoir.game.entity.danmaku.Bullet;
 import com.forpleuvoir.game.entity.Prop.Wingman;
 import com.forpleuvoir.game.model.Direction;
-import com.forpleuvoir.game.gamenIterface.Fly;
+import com.forpleuvoir.game.gameInterface.Fly;
 import com.forpleuvoir.game.model.Node;
 
 import java.util.ArrayList;

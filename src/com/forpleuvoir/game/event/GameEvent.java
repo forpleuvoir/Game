@@ -1,4 +1,4 @@
-package com.forpleuvoir.game.Event;
+package com.forpleuvoir.game.event;
 
 import java.util.EventObject;
 

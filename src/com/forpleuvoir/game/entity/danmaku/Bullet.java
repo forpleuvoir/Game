@@ -1,7 +1,7 @@
 package com.forpleuvoir.game.entity.danmaku;
 
 import com.forpleuvoir.game.model.Direction;
-import com.forpleuvoir.game.gamenIterface.Fly;
+import com.forpleuvoir.game.gameInterface.Fly;
 import com.forpleuvoir.game.model.Node;
 
 public class Bullet extends Node implements Fly {

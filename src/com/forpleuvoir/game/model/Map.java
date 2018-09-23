@@ -1,7 +1,7 @@
 package com.forpleuvoir.game.model;
 
-import com.forpleuvoir.game.Event.GameEvent;
-import com.forpleuvoir.game.Event.GameEventListener;
+import com.forpleuvoir.game.event.GameEvent;
+import com.forpleuvoir.game.event.GameEventListener;
 import com.forpleuvoir.game.GameApp;
 import com.forpleuvoir.game.controller.GameController;
 import com.forpleuvoir.game.entity.Cirno;
@@ -13,7 +13,6 @@ import com.forpleuvoir.game.entity.Player;
 import com.forpleuvoir.game.entity.danmaku.cirno.IcicleFall.Icebomb;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.Observable;
 import java.util.Random;
 
